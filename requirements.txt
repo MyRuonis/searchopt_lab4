@@ -1,0 +1,5 @@
+tqdm
+numpy
+numba
+colorama
+glicko2

@@ -1,0 +1,18 @@
+*.pyc
+*.onnx
+*.prof
+*.nbi
+*.nbc
+.DS_Store
+
+/temp/
+/.project
+/.pydevproject
+
+# checkpoint and results
+checkpoints/
+results/
+
+# For PyCharm users
+.idea/
+
